@@ -1,0 +1,13 @@
+.conten{
+    display: flex;
+    flex-direction: column;
+}
+.titulo{
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+.table-responsive{
+    margin: 0 auto;
+    width: 80%;
+}
